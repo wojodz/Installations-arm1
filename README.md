@@ -23,3 +23,4 @@ write this code
 ```catkin_make```
 
 ```roslaunch robot_arm_pkg check_motors.launch```
+![image](https://i.ibb.co/6bLbJF3/2022-08-08-2.png)
